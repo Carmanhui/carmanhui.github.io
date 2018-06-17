@@ -1,0 +1,10 @@
+git add -all 添加所有文件
+git add filename 添加单个文件
+git commit -m "文件描述"
+git push -u origin master将更改更新到github项目中
+
+
+删除target文件夹
+git rm -r --cached target 删除target文件夹
+git commit -m '删除了target'
+git push -u origin master将更改更新到github项目中
